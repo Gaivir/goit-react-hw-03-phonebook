@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  margin-left: 15px;
+  height: 30px;
+  width: 65px;
+}
